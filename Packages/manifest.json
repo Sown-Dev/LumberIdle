@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "com.codemaestroai.advancedunitymcp": "https://github.com/codemaestroai/advanced-unity-mcp.git?path=Unity6",
+    "com.justinpbarnett.unity-mcp": "https://github.com/justinpbarnett/unity-mcp.git?path=/UnityMcpBridge",
     "com.unity.2d.animation": "12.0.1",
     "com.unity.2d.aseprite": "2.0.0",
     "com.unity.2d.enhancers": "1.0.0",
